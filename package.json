@@ -12,7 +12,7 @@
   "publisher": "karthikshetty", 
   "repository": {
     "type": "git",
-    "url": "<Your repository URL>" 
+    "url": "https://github.com/karthik-yml/copyfilename" 
   },
   "keywords": ["<Keyword 1>", "<Keyword 2>"],
   "contributes": {
